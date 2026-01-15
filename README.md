@@ -8,7 +8,7 @@
 Professor [André Perez](https://www.linkedin.com/in/andremarcosperez/)<br>
 Aluno [Wilma Darc Alves de Farias](www.linkedin.com/in/wilma-farias-66a15962)<br>
 
-Data: 10 de maio de 2023.
+Data: 03 de janeiro de 2026.
 
 ---
 
@@ -34,8 +34,7 @@ WITH SERDEPROPERTIES (
 	'quoteChar' = '"',
 	'escapeChar' = '\\'
 )
-STORED AS TEXTFILE
-LOCATION 'https://github.com/WilmaDarc/exercicios-SQL-para-Analise-de-Dados-EBAC/tree/main/Mo%CC%81dulo%201%20-%20Base%20de%20dados%20%26%20Linguagem%20SQL'
+
 ```
 
 ### **2. Explorando os dados da tabela de clientes**
