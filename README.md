@@ -35,7 +35,7 @@ WITH SERDEPROPERTIES (
 	'escapeChar' = '\\'
 )
 STORED AS TEXTFILE
-LOCATION 's3://ebac-robertohatiro-modulo1/'
+LOCATION 'https://github.com/WilmaDarc/exercicios-SQL-para-Analise-de-Dados-EBAC/tree/main/Mo%CC%81dulo%201%20-%20Base%20de%20dados%20%26%20Linguagem%20SQL'
 ```
 
 ### **2. Explorando os dados da tabela de clientes**
