@@ -8,7 +8,7 @@
 Professor [André Perez](https://www.linkedin.com/in/andremarcosperez/)<br>
 Aluno [Wilma Darc Alves de Farias](www.linkedin.com/in/wilma-farias-66a15962)<br>
 
-Data: 03 de janeir 2026
+Data: 03 de janeiro 2026
 
 ---
 
